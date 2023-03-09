@@ -1,11 +1,10 @@
 //
 //  main.cpp
-//  Assignment 2
+//  Assignment 2 prototype
 //
-//  Created by jana hegazy on 26/02/2023.
+//  Created by jana hegazy on 09/03/2023.
 //
-
-#include "cluster.h"
+#include "Point.hpp"
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
@@ -111,9 +110,3 @@ int main()
     }
 
 }
-
-
-
-
-
-
